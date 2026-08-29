@@ -1,9 +1,9 @@
-# Lapazo Labs
+# Lapazo Lab
 
 ### Creative Developer & AI Builder | Archetypal & Behavioral Design
 Blending art, human psychology, and technology.
 
-Lapazo Labs is a creative technology studio focused on building interactive digital products, web applications, and games. We combine visual art, archetypal frameworks, behavioral psychology, and Artificial Intelligence to craft high-impact digital experiences.
+Lapazo Lab is a creative technology studio focused on building interactive digital products, web applications, and games. We combine visual art, archetypal frameworks, behavioral design, and Artificial Intelligence to craft high-impact digital experiences.
 
 ---
 
@@ -39,10 +39,10 @@ Lapazo Labs is a creative technology studio focused on building interactive digi
 
 ## Contact
 
-- **Website:** lapazolabs.com
-- **Email:** contact@lapazolabs.com
-- **LinkedIn:** linkedin.com/in/lapazolabs
-- **Instagram:** instagram.com/lapazolabs
+- **Website:** lapazolab.com
+- **Email:** contact@lapazolab.com
+- **LinkedIn:** linkedin.com/in/lapazolab
+- **Instagram:** instagram.com/lapazolab
 
 ---
 
