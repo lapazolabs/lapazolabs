@@ -1,23 +1,22 @@
 # Lapazo Lab
 
-### Creative Developer & AI Builder | Artist & Archetypal Design
-Integrating symbolic systems, esoteric traditions, and behavioral design.
+### Creative Developer & AI Builder
+**Front-End Development | Archetypal & Behavioral Design**
 
-Lapazo Lab is a creative technology studio focused on building interactive digital products, web applications, and games. The work combines visual art, symbolic systems, esoteric traditions, archetypal frameworks, and behavioral design with Artificial Intelligence to create high-impact digital experiences.
-
----
-
-## Core Capabilities
-
-- **Creative Development:** Web applications, dynamic landing pages, and interactive interfaces.
-- **AI Building:** Rapid prototyping and product development powered by modern AI models.
-- **Game Design:** Interactive mechanics, systems design, and narrative experiences.
-- **Symbolic Systems & Esoteric Traditions:** Applying symbolic, cultural, and esoteric frameworks to digital products.
-- **Archetypal & Behavioral Design:** Using psychology, archetypes, and human behavior to shape user experience.
+I build modern websites, web applications, and interactive products by combining **AI-assisted workflows**, **intuitive UI/UX**, and **human-centered behavioral design**.
 
 ---
 
-## Stack & Tools
+## 💻 Technical & Design Focus
+
+- **Front-End & Creative Development:** Responsive web design, interactive interfaces, clean CSS, and modern JavaScript.
+- **AI-Assisted Engineering:** Rapid prototyping, workflow automation, and feature integration using AI models.
+- **Behavioral & Archetypal UX:** Applying psychology, human behavior patterns, and structural logic to create intuitive user journeys.
+- **Interactive Products & Games:** Web-based games, dynamic web apps, and narrative digital experiences.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -30,21 +29,25 @@ Lapazo Lab is a creative technology studio focused on building interactive digit
 
 ---
 
-## Featured Work
+## 🚀 Featured Projects
 
-- **Project 01:** [Project Title] — Brief description of the web app, game, or tool.
-- **Project 02:** [Project Title] — Brief description of the web app, game, or tool.
-- **Project 03:** [Project Title] — Brief description of the web app, game, or tool.
+- **Project 01:** [Project Name] — *Interactive Web App built with AI integration and responsive UI.*  
+  `[ Live Demo ]` | `[ View Code ]`
+
+- **Project 02:** [Project Name] — *Web Game / Narrative experience exploring interactive mechanics.*  
+  `[ Live Demo ]` | `[ View Code ]`
+
+- **Project 03:** [Project Name] — *Modern landing page focused on high conversion and behavioral design.*  
+  `[ Live Demo ]` | `[ View Code ]`
 
 ---
 
-## Contact
+## 📬 Contact & Work Together
 
-- **Website:** lapazolab.com
+- **Portfolio:** [lapazolab.com](https://lapazolab.com)
+- **LinkedIn:** [linkedin.com/in/lapazolab](https://linkedin.com)
 - **Email:** contact@lapazolab.com
-- **LinkedIn:** linkedin.com/in/lapazolab
-- **Instagram:** instagram.com/lapazolab
 
 ---
 
-*"Blending art, symbolic systems, esoteric traditions, and technology."*
+*"Building fast, intuitive, and visually compelling digital experiences through AI and human-centered design."*
