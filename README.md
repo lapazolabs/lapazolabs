@@ -1,17 +1,18 @@
 # Lapazo Labs
 
-### Creative Development & AI Building | Digital Art & Astrology
+### Creative Developer & AI Builder | Artist & Symbolic Systems
+Blending art, intuitive systems, and technology.
 
-Lapazo Labs is a creative technology studio focused on building interactive digital products, web applications, and games. Blending human intuition, symbolic systems, and Artificial Intelligence to craft high-impact digital experiences.
+Lapazo Labs is a creative technology studio focused on building interactive digital products, web applications, and games. We combine visual arts, symbolic frameworks, intuitive systems, and Artificial Intelligence to craft high-impact digital experiences.
 
 ---
 
 ## Core Capabilities
 
 - **Creative Development:** Web applications, dynamic landing pages, and interactive interfaces.
-- **AI Orchestration:** Rapid prototyping and product building powered by modern AI models.
-- **Game Design:** Concept development, interactive mechanics, and narrative logic.
-- **Symbolism & Art:** Merging archetypal astrology, visual arts, and digital technology.
+- **AI Building:** Rapid prototyping and product development powered by modern AI models.
+- **Game Design:** Interactive mechanics, systems design, and narrative experiences.
+- **Symbolic & Intuitive Systems:** Applying symbolic frameworks and intuitive design principles to digital products.
 
 ---
 
@@ -30,19 +31,19 @@ Lapazo Labs is a creative technology studio focused on building interactive digi
 
 ## Featured Work
 
-- **Project 01:** [Project Title] - Brief description of the web app, game, or tool.
-- **Project 02:** [Project Title] - Brief description of the web app, game, or tool.
-- **Project 03:** [Project Title] - Brief description of the web app, game, or tool.
+- **Project 01:** [Project Title] — Brief description of the web app, game, or tool.
+- **Project 02:** [Project Title] — Brief description of the web app, game, or tool.
+- **Project 03:** [Project Title] — Brief description of the web app, game, or tool.
 
 ---
 
-## Contact & Inquiries
+## Contact
 
 - **Website:** lapazolabs.com
 - **Email:** contact@lapazolabs.com
-- **LinkedIn:** [linkedin.com/in/lapazolabs](https://linkedin.com)
-- **Instagram:** [instagram.com/lapazolabs](https://instagram.com)
+- **LinkedIn:** linkedin.com/in/lapazolabs
+- **Instagram:** instagram.com/lapazolabs
 
 ---
 
-*"Where art, symbolism, and AI-driven code converge."*
+*"Blending art, symbolism, and technology."*
