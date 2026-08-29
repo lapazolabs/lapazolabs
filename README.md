@@ -1,9 +1,9 @@
 # Lapazo Lab
 
-### Creative Developer & AI Builder | Archetypal & Behavioral Design
-Blending art, human psychology, and technology.
+### Creative Developer & AI Builder | Artist & Archetypal Design
+Integrating symbolic systems, esoteric traditions, and behavioral design.
 
-Lapazo Lab is a creative technology studio focused on building interactive digital products, web applications, and games. We combine visual art, archetypal frameworks, behavioral design, and Artificial Intelligence to craft high-impact digital experiences.
+Lapazo Lab is a creative technology studio focused on building interactive digital products, web applications, and games. The work combines visual art, symbolic systems, esoteric traditions, archetypal frameworks, and behavioral design with Artificial Intelligence to create high-impact digital experiences.
 
 ---
 
@@ -12,7 +12,8 @@ Lapazo Lab is a creative technology studio focused on building interactive digit
 - **Creative Development:** Web applications, dynamic landing pages, and interactive interfaces.
 - **AI Building:** Rapid prototyping and product development powered by modern AI models.
 - **Game Design:** Interactive mechanics, systems design, and narrative experiences.
-- **Archetypal & Behavioral Design:** Applying psychology, archetypes, and human behavior to digital products.
+- **Symbolic Systems & Esoteric Traditions:** Applying symbolic, cultural, and esoteric frameworks to digital products.
+- **Archetypal & Behavioral Design:** Using psychology, archetypes, and human behavior to shape user experience.
 
 ---
 
@@ -46,4 +47,4 @@ Lapazo Lab is a creative technology studio focused on building interactive digit
 
 ---
 
-*"Blending art, psychology, and technology."*
+*"Blending art, symbolic systems, esoteric traditions, and technology."*
