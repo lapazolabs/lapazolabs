@@ -1,22 +1,23 @@
-# Lapazo Lab
+# Lapazo Studio
 
-### Creative Developer & AI Builder
-**Front-End Development | Archetypal & Behavioral Design**
+### Creative Developer & AI Builder | Archetypal & Behavioral Design
+Blending art, symbolic systems, interactive education, and technology.
 
-I build modern websites, web applications, and interactive products by combining **AI-assisted workflows**, **intuitive UI/UX**, and **human-centered behavioral design**.
-
----
-
-## 💻 Technical & Design Focus
-
-- **Front-End & Creative Development:** Responsive web design, interactive interfaces, clean CSS, and modern JavaScript.
-- **AI-Assisted Engineering:** Rapid prototyping, workflow automation, and feature integration using AI models.
-- **Behavioral & Archetypal UX:** Applying psychology, human behavior patterns, and structural logic to create intuitive user journeys.
-- **Interactive Products & Games:** Web-based games, dynamic web apps, and narrative digital experiences.
+Lapazo Studio is a creative technology studio focused on building interactive digital products, didactic web experiences, educational tools, and games. The work integrates visual art, symbolic systems, anthropology, and behavioral design with Artificial Intelligence to craft engaging learning systems and high-impact digital experiences.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Core Capabilities
+
+- **Interactive Didactic Systems:** Modern educational websites, visual timelines, exploratory digital encyclopedias, and interactive learning tools.
+- **Creative Development:** Web applications, responsive landing pages, and intuitive digital interfaces.
+- **AI Building:** Rapid prototyping, intelligent content structuring, and product development with modern AI workflows.
+- **Game & Narrative Design:** Gamified learning paths, interactive mechanics, and narrative experiences.
+- **Archetypal & Behavioral Design:** Applying anthropology, human behavior patterns, and symbolic frameworks to maximize engagement and knowledge retention.
+
+---
+
+## Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -29,25 +30,21 @@ I build modern websites, web applications, and interactive products by combining
 
 ---
 
-## 🚀 Featured Projects
+## Featured Work
 
-- **Project 01:** [Project Name] — *Interactive Web App built with AI integration and responsive UI.*  
-  `[ Live Demo ]` | `[ View Code ]`
-
-- **Project 02:** [Project Name] — *Web Game / Narrative experience exploring interactive mechanics.*  
-  `[ Live Demo ]` | `[ View Code ]`
-
-- **Project 03:** [Project Name] — *Modern landing page focused on high conversion and behavioral design.*  
-  `[ Live Demo ]` | `[ View Code ]`
+- **Project 01:** [Interactive Educational Project] — Interactive didactic tool designed for visual and exploratory learning.
+- **Project 02:** [Web Application / Game] — Interactive mechanics and behavioral design experience.
+- **Project 03:** [Digital System] — AI-assisted digital platform focusing on symbolic frameworks.
 
 ---
 
-## 📬 Contact & Work Together
+## Contact
 
-- **Portfolio:** [lapazolab.com](https://lapazolab.com)
-- **LinkedIn:** [linkedin.com/in/lapazolab](https://linkedin.com)
-- **Email:** contact@lapazolab.com
+- **Website:** lapazostudio.com
+- **Email:** contact@lapazostudio.com
+- **LinkedIn:** [linkedin.com/in/lapazostudio](https://linkedin.com)
+- **Instagram:** [instagram.com/lapazostudio](https://instagram.com)
 
 ---
 
-*"Building fast, intuitive, and visually compelling digital experiences through AI and human-centered design."*
+*"Blending art, symbolic systems, interactive education, and technology."*
