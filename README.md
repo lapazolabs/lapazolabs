@@ -1,23 +1,23 @@
 # Lapazo Studio
 
-### Creative Developer & AI Builder | Archetypal & Behavioral Design
-Blending art, symbolic systems, interactive education, and technology.
+### Creative Developer & AI Builder | Interactive Didactic Systems
+**Front-End Development | Archetypal, Behavioral & Human-Centered Design**
 
-Lapazo Studio is a creative technology studio focused on building interactive digital products, didactic web experiences, educational tools, and games. The work integrates visual art, symbolic systems, anthropology, and behavioral design with Artificial Intelligence to craft engaging learning systems and high-impact digital experiences.
-
----
-
-## Core Capabilities
-
-- **Interactive Didactic Systems:** Modern educational websites, visual timelines, exploratory digital encyclopedias, and interactive learning tools.
-- **Creative Development:** Web applications, responsive landing pages, and intuitive digital interfaces.
-- **AI Building:** Rapid prototyping, intelligent content structuring, and product development with modern AI workflows.
-- **Game & Narrative Design:** Gamified learning paths, interactive mechanics, and narrative experiences.
-- **Archetypal & Behavioral Design:** Applying anthropology, human behavior patterns, and symbolic frameworks to maximize engagement and knowledge retention.
+Lapazo Studio is a creative technology practice specializing in the development of interactive didactic systems, responsive web applications, and gamified digital experiences. By integrating front-end engineering, AI-assisted development workflows, and behavioral psychology, the studio builds intuitive, highly engaging educational tools and modern web products.
 
 ---
 
-## Tech Stack & Tools
+## Technical & Professional Core Competencies
+
+- **Interactive Didactic Systems & EdTech:** Architecture of digital learning environments, visual timelines, interactive data structures, and exploratory didactic platforms optimized for cognitive engagement and knowledge retention.
+- **Front-End & Creative Development:** Semantic HTML5, modern CSS3 (responsive layouts, flexbox, grid, animations), vanilla JavaScript, DOM manipulation, and cross-browser performance optimization.
+- **AI-Assisted Engineering & Rapid Prototyping:** Accelerating product lifecycles, structured prompt engineering, code generation, logic debugging, and rapid MVP deployment.
+- **Behavioral & Archetypal UX Architecture:** Applying psychological patterns, human behavior models, and cultural/symbolic frameworks to interface design and user journeys.
+- **Gamification & Interactive Mechanics:** Web-based game logic, interactive quizzes, dynamic state handling, and interactive narrative systems.
+
+---
+
+## Tech Stack & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -30,21 +30,13 @@ Lapazo Studio is a creative technology studio focused on building interactive di
 
 ---
 
-## Featured Work
+## Professional Inquiries & Collaboration
 
-- **Project 01:** [Interactive Educational Project] — Interactive didactic tool designed for visual and exploratory learning.
-- **Project 02:** [Web Application / Game] — Interactive mechanics and behavioral design experience.
-- **Project 03:** [Digital System] — AI-assisted digital platform focusing on symbolic frameworks.
-
----
-
-## Contact
-
-- **Website:** lapazostudio.com
+- **Website:** [lapazostudio.com](https://lapazostudio.com)
 - **Email:** contact@lapazostudio.com
 - **LinkedIn:** [linkedin.com/in/lapazostudio](https://linkedin.com)
-- **Instagram:** [instagram.com/lapazostudio](https://instagram.com)
+- **GitHub:** [github.com/lapazostudio](https://github.com/lapazostudio)
 
 ---
 
-*"Blending art, symbolic systems, interactive education, and technology."*
+*"Designing interactive systems where code, human cognition, and digital aesthetics converge."*
