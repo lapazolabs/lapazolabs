@@ -38,4 +38,4 @@ Lapazo Studio is a creative technology studio focused on building interactive di
 
 ---
 
-*"Where code, archetypal symbolism, and human behavior converge."*
+*"Bridging code, archetypal symbolism, and human behavior."*
