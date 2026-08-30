@@ -1,19 +1,18 @@
 # Lapazo Studio
 
-### Creative Developer & AI Builder | Interactive Didactic Systems
-**Front-End Development | Archetypal, Behavioral & Human-Centered Design**
+### Creative Developer & AI Builder | Archetypal & Behavioral Design
+**Front-End Development | AI-Assisted Engineering | Symbolic & Human-Centered Systems**
 
-Lapazo Studio is a creative technology practice specializing in the development of interactive didactic systems, responsive web applications, and gamified digital experiences. By integrating front-end engineering, AI-assisted development workflows, and behavioral psychology, the studio builds intuitive, highly engaging educational tools and modern web products.
+Lapazo Studio is a creative technology studio focused on building interactive digital products, responsive web applications, and intuitive user experiences. By bridging front-end development, modern AI workflows, visual arts, and behavioral psychology, the studio crafts high-impact digital experiences rooted in symbolic and human-centered design.
 
 ---
 
 ## Technical & Professional Core Competencies
 
-- **Interactive Didactic Systems & EdTech:** Architecture of digital learning environments, visual timelines, interactive data structures, and exploratory didactic platforms optimized for cognitive engagement and knowledge retention.
-- **Front-End & Creative Development:** Semantic HTML5, modern CSS3 (responsive layouts, flexbox, grid, animations), vanilla JavaScript, DOM manipulation, and cross-browser performance optimization.
-- **AI-Assisted Engineering & Rapid Prototyping:** Accelerating product lifecycles, structured prompt engineering, code generation, logic debugging, and rapid MVP deployment.
-- **Behavioral & Archetypal UX Architecture:** Applying psychological patterns, human behavior models, and cultural/symbolic frameworks to interface design and user journeys.
-- **Gamification & Interactive Mechanics:** Web-based game logic, interactive quizzes, dynamic state handling, and interactive narrative systems.
+- **Archetypal & Behavioral Design:** Applying psychological frameworks, archetypal patterns, anthropology, and human behavior models to digital product architecture and user journeys.
+- **Front-End & Creative Development:** Semantic HTML5, modern CSS3 (responsive layouts, grid, flexbox, transitions), vanilla JavaScript, DOM manipulation, and cross-browser performance.
+- **AI-Assisted Engineering & Rapid Prototyping:** Accelerating product development cycles through structured prompt engineering, logic debugging, and rapid MVP deployment.
+- **Interactive Systems & Gamification:** Web-based mechanics, interactive narrative flows, didactic tools, and state-driven interactive experiences.
 
 ---
 
@@ -39,4 +38,4 @@ Lapazo Studio is a creative technology practice specializing in the development 
 
 ---
 
-*"Designing interactive systems where code, human cognition, and digital aesthetics converge."*
+*"Where code, archetypal symbolism, and human behavior converge."*
